@@ -16,7 +16,7 @@
         "declaration": true
     },
     "include": [
-        "src"
+        "./main.tsx"
     ],
     "exclude": [
         "node_modules"

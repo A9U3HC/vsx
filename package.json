@@ -55,6 +55,7 @@
     "npm": "11.0.0"
   },
   "workspaces": [
-    "templates/*"
+    "templates/esbuild",
+    "templates/vite"
   ]
 }

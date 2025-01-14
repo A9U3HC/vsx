@@ -11,6 +11,6 @@
         "esModuleInterop": true,
         "declaration": true
     },
-    "include": ["src"],
+    "include": ["./main.tsx"],
     "exclude": ["node_modules"]
 }
